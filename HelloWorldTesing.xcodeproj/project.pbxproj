@@ -446,7 +446,7 @@
 				F91014C622352F3000BEE2AB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		F91014C722352F3000BEE2AB /* Build configuration list for PBXNativeTarget "HelloWorldTesing" */ = {
 			isa = XCConfigurationList;
@@ -455,7 +455,7 @@
 				F91014C922352F3000BEE2AB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		F91014CA22352F3000BEE2AB /* Build configuration list for PBXNativeTarget "HelloWorldTesingUITests" */ = {
 			isa = XCConfigurationList;
@@ -464,7 +464,7 @@
 				F91014CC22352F3000BEE2AB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 
